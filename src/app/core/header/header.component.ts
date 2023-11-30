@@ -6,7 +6,7 @@ import { ChangeDetectionStrategy, Component } from '@angular/core';
   standalone: true,
   imports: [CommonModule],
   template: `
-    <div class="h-12 bg-slate-600 flex items-center p-4">
+    <div class="mb-5 h-12 bg-slate-600 flex items-center p-4">
       <h1>github users</h1>
     </div>
   `,
